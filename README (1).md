@@ -12,16 +12,16 @@ El sistema usa dos antenas trabajando en diversidad: una omnidireccional que da 
 
 Lo que sí cubre el proyecto:
 
-- Arquitectura del sistema: diagrama de bloques y por qué se eligió cada componente
-- Presupuesto de enlace (link budget) para saber qué tan lejos puede llegar la señal en teoría
-- Lógica de conmutación de antenas basada en RSSI, con un margen de histéresis para que no ande cambiando de antena a cada rato
-- Selección del amplificador, antenas y transceptor, respetando lo que permite el IFT en la banda de 900 MHz
-- Construcción física del sistema
-- Pruebas de campo con una aeronave real, para checar que el enlace y la conmutación de antenas funcionen como se espera
+Arquitectura del sistema: diagrama de bloques y por qué se eligió cada componente
+Presupuesto de enlace (link budget) para saber qué tan lejos puede llegar la señal en teoría
+Lógica de conmutación de antenas basada en RSSI, con un margen de histéresis para que no ande cambiando de antena a cada rato
+Selección del amplificador, antenas y transceptor, respetando lo que permite el IFT en la banda de 900 MHz
+Construcción física del sistema
+Pruebas de campo con una aeronave real, para checar que el enlace y la conmutación de antenas funcionen como se espera
 
 Lo que no cubre:
 
-- El enlace de video (el proyecto es solo telemetría/C2)
+El enlace de video (el proyecto es solo telemetría/C2)
 
 ## Revisión de literatura
 
