@@ -56,4 +56,4 @@ El RFD900x ya resuelve la diversidad de antena de forma automática, pero en los
 
 ## Autor
 
-Angy — Universidad Aeronáutica en Querétaro (UNAQ)
+Ángeles Colín Correa — Universidad Aeronáutica en Querétaro (UNAQ)
