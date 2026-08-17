@@ -12,16 +12,16 @@ La arquitectura de TeleCom-UAV integra dos antenas en configuración de diversid
 
 El proyecto abarca el diseño, la construcción física y la validación del sistema TeleCom-UAV, e incluye:
 
-- Arquitectura del sistema (diagrama de bloques y justificación de cada componente)
-- Cálculo del presupuesto de enlace (link budget) para estimar el alcance teórico bajo los límites de potencia permitidos
-- Lógica de conmutación de antenas basada en RSSI, con margen de histéresis
-- Selección y justificación del amplificador, las antenas y el transceptor propuestos, dentro del marco regulatorio aplicable a la banda de 900 MHz en México
-- Construcción física del sistema
-- Pruebas de campo con una aeronave real, para validar el desempeño del enlace y de la lógica de conmutación de antenas
+Arquitectura del sistema (diagrama de bloques y justificación de cada componente)
+Cálculo del presupuesto de enlace (link budget) para estimar el alcance teórico bajo los límites de potencia permitidos
+Lógica de conmutación de antenas basada en RSSI, con margen de histéresis
+Selección y justificación del amplificador, las antenas y el transceptor propuestos, dentro del marco regulatorio aplicable a la banda de 900 MHz en México
+Construcción física del sistema
+Pruebas de campo con una aeronave real, para validar el desempeño del enlace y de la lógica de conmutación de antenas
 
 Queda fuera del alcance:
 
-- El enlace de video downlink (el proyecto se limita al enlace de telemetría/C2)
+El enlace de video downlink (el proyecto se limita al enlace de telemetría/C2)
 
 ## Revisión de literatura
 
