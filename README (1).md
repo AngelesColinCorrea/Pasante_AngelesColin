@@ -56,4 +56,4 @@ El RFD900x ya trae diversidad de antena automática de fábrica, pero en los tre
 
 ## Autor
 
-Angy — Universidad Aeronáutica en Querétaro (UNAQ)
+Ángeles Colín Correa — Universidad Aeronáutica en Querétaro UNAQ
